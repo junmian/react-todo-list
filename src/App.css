@@ -1,0 +1,11 @@
+body {
+  font-family: cursive;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+input:placeholder-shown ~ button {
+  pointer-events: none;
+}
