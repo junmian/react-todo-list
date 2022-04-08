@@ -23,7 +23,7 @@ I like apps that not only function well but also look nice because it improves t
 
 |                                           **Original Styling**                                           |                                               **My Styling**                                                |
 | :------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/junmian/todo-react-app/blob/main/original-styling.png" alt="Original Styling"> | <img src="https://github.com/junmian/todo-react-app/blob/main/my-styling.png" alt="My Styling"> |
+| <img src="https://github.com/junmian/react-todo-list/blob/main/original-styling.png" alt="Original Styling"> | <img src="https://github.com/junmian/react-todo-list/blob/main/my-styling.png" alt="My Styling"> |
 
 ## App Demo
 
